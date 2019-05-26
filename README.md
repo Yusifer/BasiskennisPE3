@@ -5,4 +5,4 @@
 
 > sh basiskennis.sh
 
-Dit script voert een commando uit om een map aan te maken
+Dit script voert een commando uit om een map aan te maken.
