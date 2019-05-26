@@ -12,3 +12,7 @@ H1 | H2 | D3 | H4 | D5 | D6 | D7 |
 
  Resultaat: 0110110
  De data klopt niet, de fout bevindt zich bij H1.
+
+
+
+ 
