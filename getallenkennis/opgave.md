@@ -16,3 +16,11 @@
     1 / 2 =     0, rest: 1
 
 (845)10 = (1101001101)2
+
+Binair naar Zoned Decimal:
+
+1101 = negatief.
+
+1101 0011 01 = **-845**
+
+Voor zover de veel te beknopte uitleg over Zoned Decimals in de cursus verschijnt.
