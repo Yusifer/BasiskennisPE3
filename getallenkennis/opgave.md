@@ -1,5 +1,21 @@
-# Zoned Decimal van een decimaal getal.
+# Hamming-bits 1110110
 
+H1 | H2 | D3 | H4 | D5 | D6 | D7 |
+--- | --- | --- | --- | --- | --- | --- |
+  1 |   1  |   1 |  0   |  1  |   1 |    0 |
+--- | --- | --- | --- | --- | --- | --- |
+ X |       |       |      |      |       |      |  (1-bit)
+--- | --- | --- | --- | --- | --- | --- |
+ X |   V  |       |      |      |       |      | (2-bit)
+--- | --- | --- | --- | --- | --- | --- |
+ X |   V  |       |  V  |      |       |      | (4-bit)
+
+ Resultaat: 0110110
+ De data klopt niet, de fout bevindt zich bij H1.
+
+
+
+ 
 > (845)10 = ()zd
 
 > Van decimaal naar binair:
